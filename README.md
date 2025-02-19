@@ -21,7 +21,7 @@ Este repositório contém materiais, projetos e atividades relacionados à disci
 ## 🚀 Tecnologias Utilizadas
 - **Linguagens:** JavaScript, Kotlin, Swift;
 - **Frameworks:** React Native;
-- **Ferramentas:** Android Studio, XCode, Expo
+- **Ferramentas:** Android Studio, XCode, Expo;
 - **Outros:** ?.
 
 ## 👤 Autor
