@@ -19,9 +19,9 @@ Este repositório contém materiais, projetos e atividades relacionados à disci
 └── README.md       # Este arquivo  
 
 ## 🚀 Tecnologias Utilizadas
-- **Linguagens:** JavaScript, Kotlin, Swift;
+- **Linguagens:** JavaScript, TypeScript, Kotlin, Swift;
 - **Frameworks:** React Native;
-- **Ferramentas:** Android Studio, XCode, Expo
+- **Ferramentas:** Android Studio, XCode, Expo;
 - **Outros:** ?.
 
 ## 👤 Autor
